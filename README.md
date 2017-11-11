@@ -11,4 +11,4 @@ Add-on WinDatePicker.xlam
 Usage:
 Download and keep both tool & WinDatePicker.xlam in the same path.
 
-For any queries e-mail: ritesh.sharma29@gmail.com
+
